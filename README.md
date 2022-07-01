@@ -1,1 +1,0 @@
-# investimento-juros-compostos
